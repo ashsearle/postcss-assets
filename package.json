@@ -30,7 +30,7 @@
     "test": "eslint --ignore-path .gitignore . && nyc --reporter=text --reporter=html ./node_modules/ava/cli.js"
   },
   "dependencies": {
-    "assets": "^2.1.0",
+    "assets": "ashsearle/assets#ad2851d76b0a9c2487e1b696f9fd843eebf6b33a",
     "postcss": "^5.2.0",
     "postcss-functions": "^2.1.0"
   },
